@@ -1,3 +1,14 @@
+# Jacob Young's First CS193 Homework
+
+- **Solving** _things_
+- Seeing stuff work
+- Not failing the class!!!
+
+1. Numbered
+2. List
+3. Test
+4. Working?
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
