@@ -1,3 +1,14 @@
+#Jacob Young's First CS 193 Homework
+
+###Favorite Things about cs193
+- Getting things to work
+- Finishing assignments on time
+- Not failing the class!!!
+
+1. Listed
+2. Test
+3. **Bold**
+4. _Italics_
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
