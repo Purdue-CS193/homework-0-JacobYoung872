@@ -1,6 +1,6 @@
-#Jacob Young's First CS 193 Homework
+# Jacob Young's First CS 193 Homework
 
-###Favorite Things about cs193
+### Favorite Things about cs193
 - Getting things to work
 - Finishing assignments on time
 - Not failing the class!!!
